@@ -1,0 +1,5 @@
+Alex Rivera | +1 (555) 019-8234 | alex.rivera@example.com
+Sarah Chen | +1 (555) 014-5678 | sarah.chen@example.com
+Liam O'Connor | +1 (555) 017-3452 | liam.oconnor@example.com
+Priya Sharma | +91 98765 43210 | priya.sharma@example.in
+Marcus Adebayo | +44 7700 900077 | marcus.adebayo@example.co.uk
