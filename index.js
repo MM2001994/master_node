@@ -104,6 +104,7 @@ app.use(requestTime);
 app.get('/api/users', (req, res) => {
     res.setHeader('X-MyName', 'Manish Mondal');
     console.log(`Request requested at: ${req.requestTime}`);
+    console.log(req.headers);
     res.json(users);    
 });
 
